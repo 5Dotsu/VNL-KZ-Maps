@@ -1,2 +1,5 @@
 # VNL-KZ-Maps
-Collection of all possible Global KZ maps on VNL
+
+Updated collection of all possible Global KZ maps on VNL
+
+Public fastdl hosted on https://vnl.kz/maps
