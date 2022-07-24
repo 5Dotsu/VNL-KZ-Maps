@@ -2,7 +2,7 @@
 
 Collection of all possible Global KZ maps on VNL
 
-Public fastdl for all possible VNL Maps hosted on https://vnl.kz/maps
+Hosted on https://vnl.kz/maps
 
 Last updated: 25/07/22
 
